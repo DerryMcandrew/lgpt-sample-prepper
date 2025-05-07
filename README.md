@@ -1,4 +1,4 @@
-# SamplePrep for Little Piggy Tracker 🐷🎶
+# SamplePrep for LGPT 🐷🎶
 
 **TL;DR:**  
 A no-BS bash script to batch-convert your `.wav`/`.mp3` files to mono 44.1 kHz and tag them with musical keys in parallel. Get your sample folder tracker-ready in seconds.
